@@ -1,0 +1,10 @@
+{
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext.js",
+    "author": {
+        "name": "Rafael Garcia Redondo",
+        "email": "ragare@gmail.com"
+    }
+}
